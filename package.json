@@ -18,7 +18,7 @@
     "lambda",
     "aws",
     "aws lambda",
-    "amazon web services",
+    "amazon web services"
   ],
   "main": "index.js",
   "dependencies": {
