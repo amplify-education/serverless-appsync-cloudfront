@@ -1,0 +1,5 @@
+# Code Owners file indicating who should be requested automatically to review changes to certain files
+# https://help.github.com/en/articles/about-code-owners
+
+# These owners will be the default owners for everything in this repo.
+* @amplify-education/a-team
